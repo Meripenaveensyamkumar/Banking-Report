@@ -54,4 +54,4 @@ Regular Surveys and Feedback: Implement customer satisfaction surveys to identif
 Understanding customer behavior and the factors contributing to churn is essential for banks in developing effective retention strategies. 
 By leveraging data insights, banks can proactively address potential churn and enhance customer loyalty.
 
-[](url)
+[https://github.com/Meripenaveensyamkumar/Banking-Report/blob/main/bank%20project.pbix](url)
